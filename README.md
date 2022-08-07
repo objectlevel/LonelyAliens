@@ -1,2 +1,2 @@
 # LonelyAliens  
-Contract code for an NFT Project
+Contract code for the project
